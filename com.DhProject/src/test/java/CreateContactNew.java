@@ -6,6 +6,6 @@ public class CreateContactNew {
 	public void createContact()
 	{
 		System.out.println("Contact created");
-		System.out.println("Contact created for jenkins");
+		System.out.println("Contact created for jenkins...");
 	}
 }
